@@ -1,0 +1,70 @@
+{
+	"9o.hist.C:\\Users\\hou\\Desktop\\tool\\Sublime Text Build 3176 x64\\Data\\Packages\\User":
+	[
+		"go clean"
+	],
+	"9o.hist.C:\\Users\\hou\\Desktop\\vgw_cloud\\vgw_cloud\\src\\v-secure\\server\\app\\app_pull_svr":
+	[
+		"go bulid main.go",
+		"go build mian.go",
+		"go build main.go \\",
+		"go run main.go",
+		"go help",
+		"go go build main.go",
+		"go install main.go",
+		"go build main.go app_pull_svr.exe",
+		"go build main.go app_pull_svr",
+		"go build main.go app_pull_svr.go",
+		"go build main.go -o test",
+		"go build main.go -o test.go",
+		"go build main.go",
+		"go build"
+	],
+	"9o.hist.C:\\Users\\zyinfo\\go\\src":
+	[
+		"go build",
+		"go run"
+	],
+	"9o.hist.E:\\Go":
+	[
+		"go list"
+	],
+	"9o.hist.E:\\Go\\practice":
+	[
+		"cd .."
+	],
+	"9o.hist.E:\\Go\\practice\\src":
+	[
+		"go list",
+		"cd .."
+	],
+	"9o.hist.E:\\Go\\practice\\src\\prac":
+	[
+		"go get",
+		"go get github.com/iTaa/testGoGet",
+		"go help",
+		"cd ..",
+		"go list",
+		"go clean"
+	],
+	"9o.hist.E:\\Go\\practice\\src\\test":
+	[
+		"go list",
+		"go build",
+		"go run",
+		"go build main.go",
+		"go run  main.go",
+		"go get",
+		"go install",
+		"go env",
+		"./go run  main.go",
+		"cd settings",
+		"cd",
+		"go get test",
+		"go test",
+		"go run main.go"
+	],
+	"ann": "a18.05.19-1",
+	"install_version": "r18.05.19-1",
+	"version": "r18.05.19-1"
+}

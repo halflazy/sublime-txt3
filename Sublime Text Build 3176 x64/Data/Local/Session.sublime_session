@@ -1,0 +1,595 @@
+{
+	"folder_history":
+	[
+		"/C/Users/hou/Desktop/vgw_cloud/vgw_cloud",
+		"/C/Go",
+		"/E/Go/vgw_cloud",
+		"/E/Go/practice"
+	],
+	"last_version": 3176,
+	"last_window_id": 8,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 479.2,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"prin",
+						"Println\tn int, err error ƒ"
+					],
+					[
+						"imp",
+						"import\timport (...) ʂ"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pcic",
+						"Package Control: Install Package"
+					],
+					[
+						"sci",
+						"SublimeCodeIntel: Enable Code Intelligence"
+					],
+					[
+						"pic",
+						"Package Control: Install Package"
+					],
+					[
+						"go get",
+						"GoSublime: Run Tests"
+					],
+					[
+						"",
+						"Bookmarks: Select Previous"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 315.0,
+				"history":
+				[
+					"import  urllib.request,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler()));open(os.path.join(ipp,pf),'wb').write(urllib.request.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())",
+					"import urllib.request,os,hashlib; h = &#039;7183a2d3e96f11eeadd761d777e62404&#039; + &#039;e330c659d4bb41d3bdf022e94cab3cd0&#039;; pf = &#039;Package Control.sublime-package&#039;; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( &#039;http://sublime.wbond.net/&#039; + pf.replace(&#039; &#039;, &#039;%20&#039;)).read(); dh = hashlib.sha256(by).hexdigest(); print(&#039;Error validating download (got %s instead of %s), please try manual install&#039; % (dh, h)) if dh != h else open(os.path.join( ipp, pf), &#039;wb&#039; ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/hou/Desktop/vgw_cloud/vgw_cloud/test.go",
+				"/C/Users/hou/Desktop/vgw_cloud/vgw_cloud/src/v-secure/server/app/app_pull_svr/actions/event_prevent.go",
+				"/C/Users/hou/Desktop/vgw_cloud/vgw_cloud/src/v-secure/tests/app/pull/actions/app_pull.go",
+				"/E/Go/vgw_cloud/src/v-secure/proto/app/pull/pull.pb.go",
+				"/E/Go/vgw_cloud/src/v-secure/server/app/app_pull_svr/actions/threat.go",
+				"/E/Go/vgw_cloud/src/v-secure/server/app/app_pull_svr/main.go",
+				"/E/Go/vgw_cloud/src/github.com/astaxie/beego/app.go",
+				"/E/Go/vgw_cloud/src/github.com/astaxie/beego/router.go",
+				"/E/Go/vgw_cloud/src/v-secure/server/app/app_push_svr/main.go",
+				"/E/Go/vgw_cloud/src/v-secure/server/app/app_push_svr/actions/bind.go",
+				"/E/Go/vgw_cloud/src/v-secure/server/app/app_push_svr/actions/event.go",
+				"/E/Go/vgw_cloud/src/v-secure/server/app/app_pull_svr/actions/url.go",
+				"/E/Go/vgw_cloud/src/v-secure/models/url.go",
+				"/E/Go/vgw_cloud/src/v-secure/utils/log.go",
+				"/E/Go/vgw_cloud/src/v-secure/tests/app/pull/actions/app_pull.go",
+				"/C/Go/src/io/ioutil/ioutil.go",
+				"/E/Go/vgw_cloud/src/v-secure/server/app/app_pull_svr/actions/common.go",
+				"/C/Go/src/fmt/print.go",
+				"/C/Go/src/fmt/doc.go",
+				"/E/Go/practice/src/test/test.go",
+				"/E/Go/practice/src/test/sss",
+				"/C/Users/zyinfo/Downloads/Sublime Text Build 3176 x64/Data/Packages/User/GoSublime.sublime-settings",
+				"/C/Users/zyinfo/go/src/hello.go",
+				"/C/Users/zyinfo/Downloads/Sublime Text Build 3176 x64/Data/Packages/GoSublime/CHANGELOG.md"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"menu_visible": true,
+			"output.9o://C:\\Users\\hou\\Desktop\\vgw_cloud\\vgw_cloud\\src\\v-secure\\server\\app\\app_pull_svr":
+			{
+				"height": 233.0
+			},
+			"output.9o://C:\\Users\\zyinfo\\go\\src":
+			{
+				"height": 313.0
+			},
+			"output.9o://E:\\Go\\practice\\src\\prac":
+			{
+				"height": 412.0
+			},
+			"output.9o://E:\\Go\\practice\\src\\test":
+			{
+				"height": 306.0
+			},
+			"output.GsDoc-output-output":
+			{
+				"height": 126.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/GoSublime/GoSublime.sublime-build",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 255.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"prin",
+						"Println\tn int, err error ƒ"
+					],
+					[
+						"imp",
+						"import\timport (...) ʂ"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/hou/Desktop/vgw_cloud/vgw_cloud/src/v-secure/server/app/app_pull_svr/main.go",
+					"settings":
+					{
+						"buffer_size": 4902,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/hou/Desktop/tool/Sublime Text Build 3176 x64/Data/Packages/User/GoSublime.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 110,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"pcip",
+						"Package Control: Install Package"
+					],
+					[
+						"pc",
+						"Package Control: Install Package"
+					],
+					[
+						"pcic",
+						"Package Control: Install Package"
+					],
+					[
+						"sci",
+						"SublimeCodeIntel: Enable Code Intelligence"
+					],
+					[
+						"pic",
+						"Package Control: Install Package"
+					],
+					[
+						"go get",
+						"GoSublime: Run Tests"
+					],
+					[
+						"",
+						"Bookmarks: Select Previous"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 315.0,
+				"history":
+				[
+					"import  urllib.request,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler()));open(os.path.join(ipp,pf),'wb').write(urllib.request.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())",
+					"import urllib.request,os,hashlib; h = &#039;7183a2d3e96f11eeadd761d777e62404&#039; + &#039;e330c659d4bb41d3bdf022e94cab3cd0&#039;; pf = &#039;Package Control.sublime-package&#039;; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( &#039;http://sublime.wbond.net/&#039; + pf.replace(&#039; &#039;, &#039;%20&#039;)).read(); dh = hashlib.sha256(by).hexdigest(); print(&#039;Error validating download (got %s instead of %s), please try manual install&#039; % (dh, h)) if dh != h else open(os.path.join( ipp, pf), &#039;wb&#039; ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/hou/Desktop/vgw_cloud/vgw_cloud",
+				"/C/Users/hou/Desktop/vgw_cloud/vgw_cloud/src",
+				"/C/Users/hou/Desktop/vgw_cloud/vgw_cloud/src/v-secure",
+				"/C/Users/hou/Desktop/vgw_cloud/vgw_cloud/src/v-secure/server",
+				"/C/Users/hou/Desktop/vgw_cloud/vgw_cloud/src/v-secure/server/app",
+				"/C/Users/hou/Desktop/vgw_cloud/vgw_cloud/src/v-secure/server/app/app_pull_svr",
+				"/C/Users/hou/Desktop/vgw_cloud/vgw_cloud/src/v-secure/server/app/app_pull_svr/actions"
+			],
+			"file_history":
+			[
+				"/C/Go/src/io/ioutil/ioutil.go",
+				"/C/Users/hou/Desktop/tool/Sublime Text Build 3176 x64/Data/Packages/User/GoSublime.sublime-settings",
+				"/C/Users/hou/Desktop/vgw_cloud/vgw_cloud/src/v-secure/server/app/app_pull_svr/main.go",
+				"/C/Users/hou/Desktop/tool/Sublime Text Build 3176 x64/Data/Packages/User/GoSublime/windows-x64/log.txt",
+				"/C/Users/hou/Desktop/vgw_cloud/vgw_cloud/src/v-secure/server/app/app_pull_svr/actions/account.go",
+				"/C/Users/hou/Desktop/tool/Sublime Text Build 3176 x64/Data/Packages/User/golang.sublime-settings",
+				"/C/Users/hou/Desktop/tool/Sublime Text Build 3176 x64/Data/Packages/GoSublime/GoSublime.sublime-settings",
+				"/C/Users/hou/Desktop/tool/Sublime Text Build 3176 x64/Data/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/hou/Desktop/vgw_cloud/vgw_cloud/test.go",
+				"/C/Users/hou/Desktop/vgw_cloud/vgw_cloud/src/v-secure/server/app/app_pull_svr/actions/event_prevent.go",
+				"/C/Users/hou/Desktop/vgw_cloud/vgw_cloud/src/v-secure/tests/app/pull/actions/app_pull.go",
+				"/E/Go/vgw_cloud/src/v-secure/proto/app/pull/pull.pb.go",
+				"/E/Go/vgw_cloud/src/v-secure/server/app/app_pull_svr/actions/threat.go",
+				"/E/Go/vgw_cloud/src/v-secure/server/app/app_pull_svr/main.go",
+				"/E/Go/vgw_cloud/src/github.com/astaxie/beego/app.go",
+				"/E/Go/vgw_cloud/src/github.com/astaxie/beego/router.go",
+				"/E/Go/vgw_cloud/src/v-secure/server/app/app_push_svr/main.go",
+				"/E/Go/vgw_cloud/src/v-secure/server/app/app_push_svr/actions/bind.go",
+				"/E/Go/vgw_cloud/src/v-secure/server/app/app_push_svr/actions/event.go",
+				"/E/Go/vgw_cloud/src/v-secure/server/app/app_pull_svr/actions/url.go",
+				"/E/Go/vgw_cloud/src/v-secure/models/url.go",
+				"/E/Go/vgw_cloud/src/v-secure/utils/log.go",
+				"/E/Go/vgw_cloud/src/v-secure/tests/app/pull/actions/app_pull.go",
+				"/E/Go/vgw_cloud/src/v-secure/server/app/app_pull_svr/actions/common.go",
+				"/C/Go/src/fmt/print.go",
+				"/C/Go/src/fmt/doc.go",
+				"/E/Go/practice/src/test/test.go",
+				"/E/Go/practice/src/test/sss",
+				"/C/Users/zyinfo/Downloads/Sublime Text Build 3176 x64/Data/Packages/User/GoSublime.sublime-settings",
+				"/C/Users/zyinfo/go/src/hello.go",
+				"/C/Users/zyinfo/Downloads/Sublime Text Build 3176 x64/Data/Packages/GoSublime/CHANGELOG.md"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"build"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\hou\\Desktop\\vgw_cloud\\vgw_cloud"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/hou/Desktop/vgw_cloud/vgw_cloud/src/v-secure/server/app/app_pull_svr/main.go",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4902,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										616,
+										616
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/GoSublime/syntax/GoSublime-Go.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 270.4,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/hou/Desktop/tool/Sublime Text Build 3176 x64/Data/Packages/User/GoSublime.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 110,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										110,
+										110
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.9o://C:\\Users\\hou\\Desktop\\tool\\Sublime Text Build 3176 x64\\Data\\Packages\\User":
+			{
+				"height": 126.0
+			},
+			"output.9o://C:\\Users\\hou\\Desktop\\vgw_cloud\\vgw_cloud\\src\\v-secure\\server\\app\\app_pull_svr":
+			{
+				"height": 201.0
+			},
+			"output.9o://C:\\Users\\zyinfo\\go\\src":
+			{
+				"height": 313.0
+			},
+			"output.9o://E:\\Go\\practice\\src\\prac":
+			{
+				"height": 412.0
+			},
+			"output.9o://E:\\Go\\practice\\src\\test":
+			{
+				"height": 306.0
+			},
+			"output.GsDoc-output-output":
+			{
+				"height": 126.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/GoSublime/GoSublime.sublime-build",
+			"position": "0,2,3,-32000,-32000,-1,-1,563,26,26,681",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 255.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 6,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

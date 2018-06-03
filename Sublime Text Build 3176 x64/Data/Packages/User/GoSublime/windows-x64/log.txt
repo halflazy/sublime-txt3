@@ -1,0 +1,26 @@
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\USER\\zyinfo\\go\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:/Go", GOPATH:"C:/USER/zyinfo/go", InstallSuffix:""}
+Gocode pkg: "prac"
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;E:\\Go\\practice\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:/Go", GOPATH:"E:\\Go\\practice", InstallSuffix:""}
+Gocode pkg: "test"
+Gocode pkg: "prac"
+Gocode pkg: "."
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\USER\\zyinfo\\go\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:/Go", GOPATH:"C:/USER/zyinfo/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\USER\\zyinfo\\go\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:/Go", GOPATH:"C:/USER/zyinfo/go", InstallSuffix:""}
+Gocode pkg: "v-secure/tests/app/pull"
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\Users\\hou\\Desktop\\vgw_cloud\\vgw_cloud\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:/Go", GOPATH:"C:\\Users\\hou\\Desktop\\vgw_cloud\\vgw_cloud", InstallSuffix:""}
+Gocode pkg: "v-secure/server/app/app_pull_svr"
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\USER\\hou\\go\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:/Go", GOPATH:"C:/USER/hou/go", InstallSuffix:""}
+Gocode pkg: "v-secure/server/app/app_pull_svr"
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\Users\\hou\\Desktop\\vgw_cloud\\vgw_cloud\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:/Go", GOPATH:"C:\\Users\\hou\\Desktop\\vgw_cloud\\vgw_cloud", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\Users\\hou\\go\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:/Go", GOPATH:"C:/Users/hou/go", InstallSuffix:""}
+Gocode pkg: "v-secure/server/app/app_pull_svr"
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\Users\\hou\\Desktop\\vgw_cloud\\vgw_cloud\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:/Go", GOPATH:"C:/Users/hou/Desktop/vgw_cloud/vgw_cloud", InstallSuffix:""}
+Gocode pkg: "v-secure/server/app/app_pull_svr"
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\Users\\hou\\Desktop\\vgw_cloud\\vgw_cloud\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:/Go", GOPATH:"C:/Users/hou/Desktop/vgw_cloud/vgw_cloud", InstallSuffix:""}
+Gocode pkg: "v-secure/server/app/app_pull_svr"
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\Users\\hou\\Desktop\\vgw_cloud\\vgw_cloud\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:/Go", GOPATH:"C:/Users/hou/Desktop/vgw_cloud/vgw_cloud", InstallSuffix:""}
